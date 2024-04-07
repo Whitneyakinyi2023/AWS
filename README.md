@@ -1,4 +1,5 @@
 ###AWS_CLI-Run-Command###
+
 ***Description***
 
 This code snippet uses the aws ssm send-command command from the AWS CLI to execute a specific action on an EC2 instance
