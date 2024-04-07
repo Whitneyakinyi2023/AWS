@@ -1,0 +1,6 @@
+aws ssm send-command --document-name 
+"c109410a2578464l6372981t1w975050327185-InstallDashboardApp-
+pjdPVZfa1iHG" --document-version "1" --targets 
+'[{"Key":"InstanceIds","Values":["i-02ca16dedd4bd87a8"]}]' --parameters 
+'{}' --timeout-seconds 600 --max-concurrency "50" --max-errors "0" --
+region us-west-2
